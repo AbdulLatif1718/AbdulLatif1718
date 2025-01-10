@@ -1,6 +1,6 @@
 # Hi there, I'm Sulley Abdul Latif 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/170758198?v=4)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E03AQHeHBxOiE26rw/profile-displayphoto-shrink_200_200/B4EZRSLug4GgAY-/0/1736545594362?e=1741824000&v=beta&t=-to7hb4QrEpF1FX3-a-D1GJ3sq1OL6221gr0mF95o3M)
 
 ## About Me
 
