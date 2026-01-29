@@ -1,9 +1,13 @@
 ## About Me
 
 # Sulley Abdul Latif
+I’m a software engineer and founder focused on building production-grade systems
+across fintech, agritech, and emerging technologies in Africa.
 
-Software Engineer | Fintech Systems | Founder @ TechVerge Africa  
-Building scalable technology for African markets.
+Currently building at TechVerge Africa, where I design and deploy secure APIs,
+transaction systems, and internal tools. I care deeply about system design,
+clean architecture, and solving real-world problems at scale.
+
 
 - **Email**: [sulleyabdullatif2@gmail.com](mailto:sulleyabdullatif2@gmail.com) 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sulley-abdul-latif-aa79b3222)
